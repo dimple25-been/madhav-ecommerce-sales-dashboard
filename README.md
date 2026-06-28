@@ -42,7 +42,7 @@ This project is an interactive Power BI dashboard designed to analyze ecommerce 
 
 ## Dashboard Preview
 
-![Dashboard](ECOMMERCE DASHBOARD.png)
+![Dashboard](Ecommerce-sales-dashboard.png)
 
 ## Project Type
 Practice project created while learning Power BI, Power Query, DAX, and business intelligence dashboard development.
